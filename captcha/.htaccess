@@ -1,0 +1,5 @@
+Options +FollowSymlinks
+
+# Prevent Directoy listing 
+Options -Indexes
+
